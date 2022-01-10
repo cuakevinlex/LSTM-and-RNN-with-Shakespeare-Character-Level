@@ -1,0 +1,745 @@
+Hidden size: 128, sequence length: 50
+
+Epoch: 1
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whi te toe to toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe toe t
+
+Epoch: 2
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whit toe toe toe toe toe
+
+ooe toe to te toe to toe to toe to toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to toe to toe toe
+
+oo te toe to toe to toe to to
+
+Epoch: 3
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whin to tor
+ene to the tor tor hor tor to the tor tor
+ene to the tor tor to the tor to the tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the tor to the tor to the tor tore tor
+ene to the tor to the tor to the tor tor
+ene to the to
+
+Epoch: 4
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whin the the tore the thee the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the 
+
+Epoch: 5
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whin the the
+end the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the the the
+he the the the the the the the the the the th
+
+Epoch: 6
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whin the kere
+he the the sore the sore the the the pare the here.
+
+PAREN:
+The here the the the the the the the the here the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The the the sore the the the the the the the the
+he the the the the the the the the the the here
+The
+
+Epoch: 7
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whin the sore
+The sore the sore the sore the core the core.
+
+KANG IFAR:
+I will the ke the will the sore the mere the sore
+The core the sore the core the core the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore the sore the core.
+
+KANG IFAR:
+I would the the the sore th
+
+Epoch: 8
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whith the will
+The pare the cound and the prather so me the prand.
+
+DURENI:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the mere.
+
+ARINAN:
+And the the sore the sore the sore the core.
+
+KURG HENRY VI:
+I wall the ke the the the sore the 
+
+Epoch: 9
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whith the
+here the sore the sore the cound the sear hears
+The sour the sear here and the praines
+The sour the sore the praine the sore the sere
+The cound of the course and the cours of the cound
+The cound of the course and the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The sour the sore the fore here and the cound
+And the the sore the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The sour the sore the fore here and the cound
+And the the sore the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The sour the sore the fore here and the cound
+And the the sore the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The sour the sore the fore here and the cound
+And the the sore the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The sour the sore the fore here and the cound
+And the the sore the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The sour the sore the fore here and the cound
+And the the sore the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The sour the sore the fore here and the cound
+And the the sore the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The sour the sore the fore here and the cound
+And the the sore the cours and the cound
+And the the sore the fore the praines here
+The pranger of the course and the cound
+The sear he praine the sore and the sore
+And the cours and the sour the cours of the wing
+The
+
+Epoch: 10
+
+Pattern: 
+CORDELIA:
+Had you not been their father, these whi
+Prediction: 
+CORDELIA:
+Had you not been their father, these whith the sore
+the will the sear here the sore the sere the sere
+the sere the sere the sere the fore here the sere
+the will the sear he sour here the sere the will
+The sear he sour here and the fore here the sere
+And the sour the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the sere
+And the sore the sere the fore here the 
